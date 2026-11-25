@@ -7,16 +7,17 @@ I'm a student interested in Software Development and programming. I enjoy learni
 ## 🛠️ Languages & Technologies
 
 ## 🚀 My Projects
+### Number Guesser
+### Personal Portfolio Website
 ### Calculator
-#### Number Guesser
-##### Personal Portfolio Website
-###### Alien Blaster
-- Dove Hunt
+### Alien Blaster
+### Dove Hunt
+(TEAM COLLABORATION PROJECT) - recreation of the classic "Shoot the Duck" carnival game
 
 ## 🤔 What am I currently working on?
-- Collectora
+### Collectora
 
-Achievements
+## Achievements
 
 ## 📫 Connect with me
 - GitHub: https://github.com/AbuWaqid-Mir
