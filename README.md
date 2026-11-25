@@ -44,6 +44,7 @@ An arcade-style alien shooter featuring a persistent leaderboard, custom visuals
 
 ## 🤔 What am I currently working on?
 ### Collectora
+A web-based personal collection management platform that allows users to create, customise and manage collections of almost anything, from books and games to diecast cars and movies. Users can organise their items using custom fields, making each collection adaptable to their needs.
 
 
 --- 
@@ -54,7 +55,8 @@ July 2026 - worked as part of a team in response to a given project brief (Game 
 I took on a leadership role by helping plan the project and assigning tasks to team members. Presented it to a Senior Lecturer of Computer Science at LTU, and the Director of Technology at Lenvi. 
 My team won second place, whilst gaining teamwork, leadership and presenting experience.
 
---- 
+### Software Pitch Presentation to Industry Specialists - CareerCraft
+A software concept designed to address career development needs, presented as a pitch to industry professionals in marketing, graphic design and software development.
 
 ## 📫 Connect with me
 - GitHub: https://github.com/AbuWaqid-Mir
