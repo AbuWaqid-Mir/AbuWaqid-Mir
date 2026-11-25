@@ -8,17 +8,17 @@ I'm always looking forward to improving my programming skills through personal p
 
 
 ## 🛠️ Languages & Technologies
-Python
-HTML
-CSS
-Pygame
-Flask
+Python   
+HTML   
+CSS   
+Pygame   
+Flask   
 
 ## 📚 Currently Learning
-JavaScript
-SQL and database management
-Backend development with Flask
-Working with APIs
+JavaScript   
+SQL and database management   
+Backend development with Flask   
+Working with APIs   
 
 ## 🚀 My Projects
 
