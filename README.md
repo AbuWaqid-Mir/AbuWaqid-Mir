@@ -6,7 +6,11 @@ I'm a student interested in Software Development and programming. I enjoy learni
 
 
 ## 🛠️ Languages & Technologies
-
+Python
+HTML
+CSS
+Pygame
+Flask
 
 ## 🚀 My Projects
 
@@ -14,15 +18,16 @@ I'm a student interested in Software Development and programming. I enjoy learni
 Command-line number guesser game
 
 ### Personal Portfolio Website
-Personal portfolio website
+My personal portfolio. Here, you can see who I am, my skills, all of my projects.
 
 ### Calculator
+Command-line calculator
 
 ### Alien Blaster
 An arcade-style alien shooter featuring a persistent leaderboard, custom visuals, and sound effects.
 
 ### Dove Hunt
-(TEAM COLLABORATION PROJECT) - recreation of the classic "Shoot the Duck" carnival game
+(TEAM COLLABORATION PROJECT) - a recreation of the classic "Shoot the Duck" carnival game.
 
 
 ## 🤔 What am I currently working on?
