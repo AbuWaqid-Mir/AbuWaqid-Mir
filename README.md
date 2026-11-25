@@ -7,10 +7,10 @@ I'm a student interested in Software Development and programming. I enjoy learni
 ## 🛠️ Languages & Technologies
 
 ## 🚀 My Projects
-- Calculator
-- Number Guesser
-- Personal Portfolio Website
-- Alien Blaster
+### Calculator
+#### Number Guesser
+##### Personal Portfolio Website
+###### Alien Blaster
 - Dove Hunt
 
 ## 🤔 What am I currently working on?
